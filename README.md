@@ -1,4 +1,4 @@
-#Project for Software Security course
+# Project for Software Security course
 
 
 To run on mac: python3 main.py

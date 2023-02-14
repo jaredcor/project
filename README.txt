@@ -1,3 +1,6 @@
+#Project for Software Security course
+
+
 To run on mac: python3 main.py
 - when paying bill, credit card number is 1234123412341234
 
